@@ -1,3 +1,2 @@
-# References
+Hello, this in a conflict test
 
-* octocat 1 😈
